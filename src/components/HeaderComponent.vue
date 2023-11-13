@@ -1,15 +1,15 @@
 <template>
-    <div>
-
+    <div class="text-center">
+        <h1>Vite Yu-Gi-Oh</h1>
     </div>
 </template>
-
 <script>
-    export default {
-        
-    }
+export default {
+    name: 'HeaderComponent',
+    data() {
+        return {
+        }
+    },
+}
 </script>
-
-<style lang="scss" scoped>
-
-</style>
+<style lang="scss" scoped></style>
